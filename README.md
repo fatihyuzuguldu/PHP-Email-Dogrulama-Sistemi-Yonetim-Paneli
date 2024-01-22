@@ -1,4 +1,4 @@
-Login.php ve Register.php dosyalarındaki Eposta stmp ayarlarını yapınız. <br>
+Login.php de 146. satırdaki Eposta stmp ayarlarını yapınız. <br>
 Vt.php bölümündeki veritabanı ayarlarını yapınız. <br>
 
 <br>
