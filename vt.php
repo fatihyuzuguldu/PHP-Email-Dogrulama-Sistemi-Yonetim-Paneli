@@ -4,7 +4,7 @@ date_default_timezone_set('Europe/Istanbul');
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "emailtr";
+$dbname = "email";
 
 try {
     // Create a PDO database connection
